@@ -1,5 +1,7 @@
 #!/bin/sh
 
+IP=$1
+
 while true; do
 
 # admin console
